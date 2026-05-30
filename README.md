@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**rajmurade/rajmurade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Raj 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Major specializing in Data Science (Class of 2029)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Currently focused on Python, Data Structures & Algorithms, and Data Analytics
+
+🚀 Building projects to strengthen problem-solving and software development skills
+
+### Current Stack
+
+* Python
+* Git & GitHub
+* Data Structures & Algorithms (Learning)
+* Data Analytics (Learning)
+
+### Projects
+
+* File Handling System (Python)
+* More projects in progress

@@ -1,42 +1,83 @@
-# Hi, I'm Raj 👋
+Hi, I'm Raj 👋
 
-🎓 Computer Science (Data Science) Student — Class of 2029
+🎓 Computer Science & Engineering (Data Science) Student — Class of 2029
 
-💻 Passionate about Python, Data Structures & Algorithms, Data Analytics, and Software Development
+💻 Interested in AI, LLMs, Python, Data Science, and Software Development.
 
-🚀 Building real-world projects to strengthen problem-solving, programming, and data skills while continuously learning new technologies.
+🚀 I enjoy exploring ideas, building practical prototypes, and learning how technology can solve real-world problems. I'm particularly interested in AI-powered applications, intelligent systems, and developer tools.
 
-### Current Tech Stack
+🛠️ Technologies & Tools
 
-* Python
-* SQL
-* Git & GitHub
-* Data Structures & Algorithms
-* NumPy
-* Pandas
-* Microsoft Excel
-* Data Visualization (Matplotlib & Seaborn)
-* Jupyter Notebook
+Programming
 
-### Currently Learning
+- Python
+- C (Fundamentals)
+- SQL (Learning)
 
-* Advanced DSA
-* Object-Oriented Programming (OOP)
-* Data Analytics & Visualization
-* Databases (SQL)
-* Machine Learning Fundamentals
+AI & Development
 
-### Projects
+- LLMs and Prompt Engineering
+- Retrieval-Augmented Generation (RAG) Concepts
+- Sentence Transformers
+- ChromaDB
+- Streamlit
+- OpenRouter
 
-* 📁 File Handling System (Python)
-* 📊 Data Analytics Projects
-* 🧩 DSA Problem Solutions
-* 🚀 More projects coming soon
+Tools
 
-### Goals for 2026
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
 
-* Solve 500+ DSA problems
-* Build a strong portfolio of Python and Data Analytics projects
-* Contribute to open-source projects
-* Strengthen SQL and Machine Learning fundamentals
-* Prepare for software engineering and data-related internships
+🚀 Featured Projects
+
+🧠 MemoryOS — AI-Powered Memory & Retrieval System
+
+A prototype exploring how AI can capture, organize, and retrieve useful information through semantic search.
+
+- Built with Python and Streamlit.
+- Uses Sentence Transformers and ChromaDB for vector-based semantic retrieval.
+- Integrates an LLM through OpenRouter.
+- Includes memory capture, library, search, and incident-focused workflows.
+
+⛏️ MineGuard — AI-Based Mine Safety Monitoring
+
+An SIH 2026 institute-nominated project focused on improving safety and compliance monitoring in coal mines.
+
+- Explores CCTV and sensor-based monitoring for PPE compliance, machinery proximity, and potential hazards.
+- Designed around safety alerts, compliance monitoring, and an operator dashboard.
+- References relevant mining safety regulations and compliance requirements.
+
+🌾 AgriSignal — AI-Assisted Agricultural Market Insights
+
+A startup pitch concept focused on helping agricultural traders make more informed buying decisions.
+
+- Explores soybean and tur price trends using mandi prices, arrivals, and weather data.
+- Aims to provide short-term market outlooks and actionable insights.
+- Designed with regional traders, dal mills, and FPOs in mind.
+
+📚 Currently Learning
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- SQL and Database Fundamentals
+- NumPy and Pandas
+- Data Analytics and Visualization
+- Machine Learning Fundamentals
+
+🎯 Goals
+
+- Improve problem-solving and independent coding skills.
+- Build and deploy practical Python and AI-powered applications.
+- Strengthen my understanding of software development workflows.
+- Explore open-source contributions.
+- Gain practical experience through internships and collaborative projects.
+
+🤝 Let's Connect
+
+- LinkedIn: "Raj Murade" (https://www.linkedin.com/in/raj-murade-6b9a5b429/)
+- GitHub: "@rajmurade" (https://github.com/rajmurade)
+
+---
+
+Always learning, building, and experimenting.
